@@ -1,0 +1,5 @@
+Smart Teacher Gradebook V3.1 — UI update
+อัปโหลดไฟล์ index.html และ sw.js ใน github-pages แทนไฟล์เดิมบน GitHub (ไม่ต้องแก้ config.js หรือ code.gs)
+หากติดตั้งใหม่ ให้ตั้ง config.js ตาม README เดิมก่อน
+เมนูเดิม 17 เมนู จัดกลุ่ม 5 กลุ่ม พร้อมแถบเมนูด่วนบนมือถือ/iPad
+ไม่เปลี่ยน API หรือฐานข้อมูล
